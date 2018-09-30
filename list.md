@@ -18,3 +18,4 @@
 - samsung s8
 - apple xs
 - infocus epic
+- Mi A2
