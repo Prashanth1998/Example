@@ -9,3 +9,5 @@
 - cheese
 - mango
 - apple
+- orange
+- grape
