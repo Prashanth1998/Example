@@ -7,3 +7,5 @@
 - soap
 - milk
 - cheese
+- mango
+- apple
